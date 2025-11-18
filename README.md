@@ -12,3 +12,4 @@
 ![farm legends readme 8](https://github.com/user-attachments/assets/83044bc1-ea57-49be-acd2-da4f2196052a)
 ![farm legends readme 9](https://github.com/user-attachments/assets/687dff32-c149-4ed3-82b5-cce20f9a361b)
 # Play the Beta now!
+**LINK:** https://pedrowilsonrl.github.io/-BETA-FARM-LEGENDS---RPG-JAVASCRIPT/
